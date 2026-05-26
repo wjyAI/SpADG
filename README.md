@@ -6,6 +6,7 @@ Code and appendix for the KDD 2026 paper: Sparse Additive Models for Domain Gene
 ```
 SpADG/
 ├── README.md                  # Project documentation
+├── Appendix.pdf               # Appendix for the paper
 ├── synthetic/                 # Synthetic dataset experiments
 │   ├── SpADG.py              # SpADG algorithm implementation
 │   ├── main_kernel.py        # Kernel-based experiment
