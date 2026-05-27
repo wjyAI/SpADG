@@ -59,7 +59,7 @@ python main_nn.py       # Run neural network-based SpADG (regression)
 - **Samples per domain**: 50
 - **Features**: 561
 
-### [Parkinson's Dataset](https://archive.ics.uci.edu/dataset/189/parkinsons+telemonitoring)
+### [Parkinson's Telemonitoring Dataset](https://archive.ics.uci.edu/dataset/189/parkinsons+telemonitoring)
 - **Source**: UCI Parkinson's Telemonitoring Dataset
 - **Task**: Regression (motor UPDRS or total UPDRS score prediction)
 - **Domains**: 42 total (25 train, 5 val, 10 test)
